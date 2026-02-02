@@ -2,7 +2,7 @@
   "date": "2026-02-02",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 416,
+      "totalLinesAdded": 417,
       "totalLinesRemoved": 3,
       "totalActiveTime": 13,
       "files": {
@@ -266,6 +266,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/src/probe/Camera.ts": [
+          {
+            "timestamp": "2026-02-02T18:06:02.761Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/probe/Camera.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
