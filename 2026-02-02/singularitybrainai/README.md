@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2710                                          |
+| **Lines Added** (➕)   | 2922                                          |
 | **Lines Removed** (➖) | 585                                        |
-| **Net Change** (↕)    | 2125                |
-| **Active Time** (⌚)   | 57 minutes |
+| **Net Change** (↕)    | 2337                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,8 @@
 - **new_vs.txt** (+32, -0)
 - **new_fs.txt** (+19, -0)
 - **ParityHarness.ts** (+1680, -559)
-- **runParityHeadless.ts** (+168, -0)
+- **runParityHeadless.ts** (+191, -0)
+- **runParityHeadless_fixed.ts** (+189, -0)
 
 ## Visualizations
 
@@ -31,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 95
-".ts" : 3120
+".ts" : 3332
 ".html" : 21
 ".js" : 8
 ".txt" : 51
@@ -54,8 +55,8 @@ title Coding activity by hour (count of changes)
 "16h" : 4
 "17h" : 2
 "18h" : 4
-"19h" : 2
+"19h" : 5
 ```
 
 
-> **Last Updated:** 2/2/2026, 7:42:00 PM
+> **Last Updated:** 2/2/2026, 7:47:00 PM

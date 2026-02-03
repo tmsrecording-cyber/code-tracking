@@ -2,9 +2,9 @@
   "date": "2026-02-02",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 2710,
+      "totalLinesAdded": 2922,
       "totalLinesRemoved": 585,
-      "totalActiveTime": 57,
+      "totalActiveTime": 65,
       "files": {
         "/Users/michaelmckenzie/Library/Application Support/Code/User/settings.json": [
           {
@@ -914,6 +914,50 @@
             "fileName": "/Users/michaelmckenzie/SingularityBrainAi/runParityHeadless.ts",
             "fileType": ".ts",
             "linesAdded": 167,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-03T03:43:00.750Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/runParityHeadless.ts",
+            "fileType": ".ts",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/runParityHeadless_fixed.ts": [
+          {
+            "timestamp": "2026-02-03T03:44:21.491Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/runParityHeadless_fixed.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-03T03:45:18.557Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/runParityHeadless_fixed.ts",
+            "fileType": ".ts",
+            "linesAdded": 188,
             "linesRemoved": 0,
             "projectName": "SingularityBrainAi",
             "content": {
