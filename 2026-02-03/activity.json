@@ -1,0 +1,61 @@
+{
+  "date": "2026-02-03",
+  "projects": {
+    "SingularityBrainAi": {
+      "totalLinesAdded": 232,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts": [
+          {
+            "timestamp": "2026-02-03T08:27:07.696Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 205,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-03T08:27:31.030Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1
+      },
+      "changeFrequency": {
+        "0": 1
+      },
+      "topFiles": [
+        "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts"
+      ],
+      "averageChangeSize": 116
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
