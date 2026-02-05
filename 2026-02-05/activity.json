@@ -2,9 +2,9 @@
   "date": "2026-02-05",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 3,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 71,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 13,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts": [
           {
@@ -90,6 +90,120 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-05T12:29:12.380Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-05T12:29:20.826Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-05T12:30:15.490Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-05T12:30:23.036Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2026-02-05T12:25:58.744Z",
+            "fileName": "/Users/michaelmckenzie/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-05T12:25:58.839Z",
+            "fileName": "/Users/michaelmckenzie/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-05T12:25:59.080Z",
+            "fileName": "/Users/michaelmckenzie/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-05T12:25:59.296Z",
+            "fileName": "/Users/michaelmckenzie/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
