@@ -2,9 +2,9 @@
   "date": "2026-02-06",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 603,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 51,
+      "totalLinesAdded": 610,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 54,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/tests/SnapshotRoundTripParity.spec.ts": [
           {
@@ -710,6 +710,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T20:25:38.223Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T20:25:38.755Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/michaelmckenzie/SingularityBrainAi/.gitignore": [
@@ -729,6 +757,34 @@
           },
           {
             "timestamp": "2026-02-06T20:13:29.463Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-02-06T20:25:37.195Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-02-06T20:25:38.751Z",
             "fileName": "/Users/michaelmckenzie/SingularityBrainAi/.gitignore",
             "fileType": "unknown",
             "linesAdded": 1,
