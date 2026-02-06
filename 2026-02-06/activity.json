@@ -3,8 +3,8 @@
   "projects": {
     "SingularityBrainAi": {
       "totalLinesAdded": 2194,
-      "totalLinesRemoved": 17,
-      "totalActiveTime": 81,
+      "totalLinesRemoved": 257,
+      "totalActiveTime": 86,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/tests/SnapshotRoundTripParity.spec.ts": [
           {
@@ -1137,6 +1137,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T21:07:38.665Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/probe/gpu/GPUBackend.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 240,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ]
