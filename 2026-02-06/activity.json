@@ -2,9 +2,9 @@
   "date": "2026-02-06",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 209,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 589,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 50,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/tests/SnapshotRoundTripParity.spec.ts": [
           {
@@ -264,6 +264,444 @@
             "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/SnapshotRoundTripParity.spec.ts",
             "fileType": ".ts",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts": [
+          {
+            "timestamp": "2026-02-06T19:49:51.891Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:49:54.662Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:00.409Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:02.794Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:04.654Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:05.794Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:09.560Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:10.085Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:13.092Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:14.098Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:20.734Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:22.343Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:23.866Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:24.641Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:25.585Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:28.427Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:30.346Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:31.430Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:33.046Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:37.080Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:38.769Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:45.887Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:47.088Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:47.865Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:50.952Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:50:51.747Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/LiveResumeParity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts": [
+          {
+            "timestamp": "2026-02-06T19:51:48.545Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:51:53.484Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:51:55.804Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:52:22.059Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-06T19:53:03.250Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "SingularityBrainAi",
             "content": {
