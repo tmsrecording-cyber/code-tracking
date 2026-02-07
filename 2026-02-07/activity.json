@@ -3,8 +3,8 @@
   "projects": {
     "SingularityBrainAi": {
       "totalLinesAdded": 8109,
-      "totalLinesRemoved": 276,
-      "totalActiveTime": 204,
+      "totalLinesRemoved": 323,
+      "totalActiveTime": 206,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/gpu_supported_forces_parity_smoke.spec.ts": [
           {
@@ -2538,6 +2538,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2026-02-07T21:37:37.272Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "/Users/michaelmckenzie/SingularityBrainAi/probe.html": [
@@ -2589,6 +2603,20 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-02-07T21:37:38.300Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/probe.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 22,
             "projectName": "SingularityBrainAi",
             "content": {
               "added": [],

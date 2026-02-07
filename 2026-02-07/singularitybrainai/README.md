@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 8109                                          |
-| **Lines Removed** (➖) | 276                                        |
-| **Net Change** (↕)    | 7833                |
-| **Active Time** (⌚)   | 204 minutes |
+| **Lines Removed** (➖) | 323                                        |
+| **Net Change** (↕)    | 7786                |
+| **Active Time** (⌚)   | 206 minutes |
 
 
 ## Modified Files
@@ -31,8 +31,8 @@
 - **AnchorGravityInstrumentation.ts** (+183, -8)
 - **SimulationStepOrderingInvariant.spec.ts** (+226, -0)
 - **A010LifecycleSnapshot.ts** (+115, -9)
-- **index.html** (+361, -245)
-- **probe.html** (+349, -1)
+- **index.html** (+361, -270)
+- **probe.html** (+349, -23)
 
 ## Visualizations
 
@@ -46,7 +46,7 @@ title Lines changed by file type
 ".json" : 26
 ".yml" : 30
 "unknown" : 11
-".html" : 956
+".html" : 1003
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "10h" : 96
 "11h" : 21
 "12h" : 6
-"13h" : 9
+"13h" : 11
 ```
 
 
-> **Last Updated:** 2/7/2026, 1:37:30 PM
+> **Last Updated:** 2/7/2026, 1:42:30 PM
