@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8510                                          |
-| **Lines Removed** (➖) | 534                                        |
-| **Net Change** (↕)    | 7976                |
-| **Active Time** (⌚)   | 217 minutes |
+| **Lines Added** (➕)   | 10533                                          |
+| **Lines Removed** (➖) | 574                                        |
+| **Net Change** (↕)    | 9959                |
+| **Active Time** (⌚)   | 229 minutes |
 
 
 ## Modified Files
@@ -31,9 +31,10 @@
 - **AnchorGravityInstrumentation.ts** (+183, -8)
 - **SimulationStepOrderingInvariant.spec.ts** (+226, -0)
 - **A010LifecycleSnapshot.ts** (+115, -9)
-- **index.html** (+621, -479)
-- **probe.html** (+358, -25)
-- **app.html** (+132, -0)
+- **index.html** (+621, -488)
+- **probe.html** (+360, -34)
+- **app.html** (+132, -12)
+- **probeMain.ts** (+2021, -10)
 
 ## Visualizations
 
@@ -42,12 +43,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 7288
+".ts" : 9319
 ".js" : 74
 ".json" : 26
 ".yml" : 30
 "unknown" : 11
-".html" : 1615
+".html" : 1647
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -63,8 +64,8 @@ title Coding activity by hour (count of changes)
 "11h" : 21
 "12h" : 6
 "13h" : 13
-"14h" : 7
+"14h" : 14
 ```
 
 
-> **Last Updated:** 2/7/2026, 2:54:58 PM
+> **Last Updated:** 2/7/2026, 2:59:58 PM
