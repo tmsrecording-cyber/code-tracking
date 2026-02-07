@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4320                                          |
-| **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 4314                |
-| **Active Time** (⌚)   | 77 minutes |
+| **Lines Added** (➕)   | 5473                                          |
+| **Lines Removed** (➖) | 7                                        |
+| **Net Change** (↕)    | 5466                |
+| **Active Time** (⌚)   | 79 minutes |
 
 
 ## Modified Files
 - **gpu_supported_forces_parity_smoke.spec.ts** (+162, -0)
 - **ParityHarness.ts** (+126, -5)
 - **GPUBackend.ts** (+1113, -0)
-- **CPUBackend.ts** (+1132, -0)
+- **CPUBackend.ts** (+2285, -1)
 - **playwright.config.js** (+17, -0)
 - **parity_contract_guard.spec.ts** (+65, -0)
 - **generate_a012_baseline.ts** (+70, -0)
@@ -36,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 4185
+".ts" : 5339
 ".js" : 74
 ".json" : 26
 ".yml" : 30
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "04h" : 6
 "08h" : 10
 "09h" : 32
-"10h" : 1
+"10h" : 4
 ```
 
 
-> **Last Updated:** 2/7/2026, 10:34:22 AM
+> **Last Updated:** 2/7/2026, 10:42:29 AM
