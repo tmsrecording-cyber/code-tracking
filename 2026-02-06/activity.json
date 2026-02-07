@@ -2,9 +2,9 @@
   "date": "2026-02-06",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 6796,
+      "totalLinesAdded": 6957,
       "totalLinesRemoved": 509,
-      "totalActiveTime": 348,
+      "totalActiveTime": 356,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/tests/SnapshotRoundTripParity.spec.ts": [
           {
@@ -2149,6 +2149,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T03:41:30.630Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/probe/gpu/TextureParityBackend.ts",
+            "fileType": ".ts",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T03:44:00.338Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/probe/gpu/TextureParityBackend.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
@@ -4396,6 +4424,96 @@
             "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/forces_sanity_probe.spec.ts",
             "fileType": ".ts",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu_diagnostic.spec.ts": [
+          {
+            "timestamp": "2026-02-07T03:41:56.732Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu_diagnostic.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T03:41:57.688Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu_diagnostic.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu_diagnostic_v2.spec.ts": [
+          {
+            "timestamp": "2026-02-07T03:42:10.798Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu_diagnostic_v2.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T03:42:11.789Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu_diagnostic_v2.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu_diagnostic_final.spec.ts": [
+          {
+            "timestamp": "2026-02-07T03:42:21.369Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu_diagnostic_final.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T03:42:22.110Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu_diagnostic_final.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
             "linesRemoved": 0,
             "projectName": "SingularityBrainAi",
             "content": {
