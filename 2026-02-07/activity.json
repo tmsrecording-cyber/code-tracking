@@ -2,9 +2,9 @@
   "date": "2026-02-07",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 8345,
+      "totalLinesAdded": 8351,
       "totalLinesRemoved": 323,
-      "totalActiveTime": 206,
+      "totalActiveTime": 211,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/gpu_supported_forces_parity_smoke.spec.ts": [
           {
@@ -2565,6 +2565,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-02-07T21:48:23.681Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/index.html",
+            "fileType": ".html",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "html"
           }
         ],
