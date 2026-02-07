@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8335                                          |
-| **Lines Removed** (➖) | 800                                        |
-| **Net Change** (↕)    | 7535                |
-| **Active Time** (⌚)   | 394 minutes |
+| **Lines Added** (➕)   | 8353                                          |
+| **Lines Removed** (➖) | 804                                        |
+| **Net Change** (↕)    | 7549                |
+| **Active Time** (⌚)   | 395 minutes |
 
 
 ## Modified Files
@@ -33,7 +33,8 @@
 - **parity.html** (+63, -0)
 - **diagnostic.html** (+61, -0)
 - **nondeterminism_sources_canary.spec.ts** (+106, -0)
-- **ParityHarness.ts** (+712, -0)
+- **ParityHarness.ts** (+712, -4)
+- **config.yaml** (+18, -0)
 
 ## Visualizations
 
@@ -42,11 +43,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 8740
+".ts" : 8744
 "unknown" : 20
 ".html" : 172
 ".json" : 189
 ".yml" : 14
+".yaml" : 18
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,8 +66,8 @@ title Coding activity by hour (count of changes)
 "18h" : 15
 "19h" : 59
 "20h" : 9
-"21h" : 4
+"21h" : 6
 ```
 
 
-> **Last Updated:** 2/6/2026, 9:47:42 PM
+> **Last Updated:** 2/6/2026, 9:52:42 PM
