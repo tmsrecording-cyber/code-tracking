@@ -2,9 +2,9 @@
   "date": "2026-02-07",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 2905,
+      "totalLinesAdded": 3029,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 44,
+      "totalActiveTime": 55,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/gpu_supported_forces_parity_smoke.spec.ts": [
           {
@@ -430,6 +430,126 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/scripts/check_amendment.js": [
+          {
+            "timestamp": "2026-02-07T17:24:23.635Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/scripts/check_amendment.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-07T17:24:24.590Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/scripts/check_amendment.js",
+            "fileType": ".js",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/package.json": [
+          {
+            "timestamp": "2026-02-07T17:24:41.769Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/package.json",
+            "fileType": ".json",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-07T17:24:43.823Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/.github/workflows/parity-canary.yml": [
+          {
+            "timestamp": "2026-02-07T17:28:00.066Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/.github/workflows/parity-canary.yml",
+            "fileType": ".yml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2026-02-07T17:28:00.798Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/.github/workflows/parity-canary.yml",
+            "fileType": ".yml",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/.github/CODEOWNERS": [
+          {
+            "timestamp": "2026-02-07T17:28:11.626Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/.github/CODEOWNERS",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-02-07T17:28:12.223Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/.github/CODEOWNERS",
+            "fileType": "unknown",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
