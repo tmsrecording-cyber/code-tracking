@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1391                                          |
+| **Lines Added** (➕)   | 2407                                          |
 | **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 1386                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Net Change** (↕)    | 2402                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
 - **gpu_supported_forces_parity_smoke.spec.ts** (+162, -0)
 - **ParityHarness.ts** (+126, -5)
 - **GPUBackend.ts** (+1103, -0)
+- **CPUBackend.ts** (+1016, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1396
+".ts" : 2412
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "03h" : 2
 "04h" : 6
-"08h" : 3
+"08h" : 5
 ```
 
 
-> **Last Updated:** 2/7/2026, 8:34:21 AM
+> **Last Updated:** 2/7/2026, 8:39:21 AM
