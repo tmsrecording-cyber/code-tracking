@@ -2,9 +2,9 @@
   "date": "2026-02-07",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 5473,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 5774,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 168,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/gpu_supported_forces_parity_smoke.spec.ts": [
           {
@@ -484,6 +484,76 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:51:13.017Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 113,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:51:38.983Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:51:42.613Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:52:16.518Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:52:19.894Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/runAll.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/michaelmckenzie/SingularityBrainAi/src/world/Constants.ts": [
@@ -786,6 +856,1198 @@
             "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityRuntime.ts",
             "fileType": ".ts",
             "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts": [
+          {
+            "timestamp": "2026-02-07T18:49:15.358Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:15.907Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:17.007Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:18.900Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:19.477Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:20.037Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:21.130Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:22.405Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:24.171Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:25.449Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:27.033Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:28.655Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:30.513Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:31.309Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:31.844Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:32.592Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:34.208Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:35.094Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:35.744Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:36.528Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:37.492Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:39.559Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:41.132Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:42.773Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:43.758Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:44.292Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:44.983Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:45.579Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:46.805Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:47.681Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:48.591Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:49.136Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:50.732Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:51.727Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:52.267Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:53.457Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:54.584Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:55.440Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:56.022Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:56.573Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:57.742Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:58.393Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:49:59.075Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:01.307Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:02.126Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:03.056Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:03.726Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:04.268Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:04.990Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:05.863Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:06.530Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:07.202Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:08.093Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:09.222Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:10.941Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:11.732Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:12.526Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:13.922Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:14.791Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:16.426Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:17.198Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:17.749Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:18.414Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:20.141Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:21.208Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:21.776Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:22.484Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:23.662Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:24.310Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:24.866Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:26.021Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:27.313Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:28.317Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:28.989Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:29.574Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:31.381Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:32.389Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:33.084Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:33.851Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:36.410Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:37.399Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:38.798Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:40.540Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:41.762Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T18:50:43.381Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/AnchorGravityInstrumentation.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "SingularityBrainAi",
             "content": {
