@@ -2,9 +2,9 @@
   "date": "2026-02-07",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 141,
+      "totalLinesAdded": 222,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/gpu_supported_forces_parity_smoke.spec.ts": [
           {
@@ -26,6 +26,50 @@
             "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/gpu_supported_forces_parity_smoke.spec.ts",
             "fileType": ".ts",
             "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T12:20:10.869Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/gpu_supported_forces_parity_smoke.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/src/tests/ParityHarness.ts": [
+          {
+            "timestamp": "2026-02-07T12:19:49.834Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/ParityHarness.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T12:19:52.087Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/ParityHarness.ts",
+            "fileType": ".ts",
+            "linesAdded": 53,
             "linesRemoved": 0,
             "projectName": "SingularityBrainAi",
             "content": {
