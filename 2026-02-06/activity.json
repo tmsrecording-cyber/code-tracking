@@ -2,9 +2,9 @@
   "date": "2026-02-06",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 5970,
+      "totalLinesAdded": 5972,
       "totalLinesRemoved": 498,
-      "totalActiveTime": 321,
+      "totalActiveTime": 322,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/tests/SnapshotRoundTripParity.spec.ts": [
           {
@@ -4060,6 +4060,20 @@
             "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/forces_sanity_probe.spec.ts",
             "fileType": ".ts",
             "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-07T03:10:55.164Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/gpu/forces_sanity_probe.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "SingularityBrainAi",
             "content": {
