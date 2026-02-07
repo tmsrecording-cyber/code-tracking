@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5641                                          |
-| **Lines Removed** (➖) | 275                                        |
-| **Net Change** (↕)    | 5366                |
-| **Active Time** (⌚)   | 291 minutes |
+| **Lines Added** (➕)   | 5814                                          |
+| **Lines Removed** (➖) | 395                                        |
+| **Net Change** (↕)    | 5419                |
+| **Active Time** (⌚)   | 294 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **parity_resurrection.html** (+48, -0)
 - **GPUBackend.ts** (+1343, -249)
 - **COMMIT_EDITMSG** (+4, -0)
-- **TextureParityBackend.ts** (+2141, -7)
+- **TextureParityBackend.ts** (+2314, -127)
 - **settings.json** (+67, -1)
 - **GPUBackendHarness.ts** (+89, -0)
 - **CPUBackend.ts** (+960, -10)
@@ -32,7 +32,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 5780
+".ts" : 6073
 "unknown" : 20
 ".html" : 48
 ".json" : 68
@@ -50,7 +50,8 @@ title Coding activity by hour (count of changes)
 "15h" : 13
 "16h" : 5
 "17h" : 118
+"18h" : 3
 ```
 
 
-> **Last Updated:** 2/6/2026, 5:30:27 PM
+> **Last Updated:** 2/6/2026, 6:10:27 PM
