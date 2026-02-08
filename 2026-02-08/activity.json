@@ -2,9 +2,9 @@
   "date": "2026-02-08",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 9646,
-      "totalLinesRemoved": 842,
-      "totalActiveTime": 96,
+      "totalLinesAdded": 9724,
+      "totalLinesRemoved": 850,
+      "totalActiveTime": 103,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/main.ts": [
           {
@@ -1087,6 +1087,120 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/tests/repro_antigravity.spec.ts": [
+          {
+            "timestamp": "2026-02-08T22:13:13.522Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/repro_antigravity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-08T22:13:14.053Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/repro_antigravity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-08T22:14:08.468Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/repro_antigravity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-08T22:14:17.499Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/repro_antigravity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-08T22:14:41.680Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/repro_antigravity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-08T22:14:52.061Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/repro_antigravity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-08T22:15:13.363Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/repro_antigravity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-08T22:15:29.651Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/repro_antigravity.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
