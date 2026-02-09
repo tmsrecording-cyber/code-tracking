@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 12597                                          |
-| **Lines Removed** (➖) | 851                                        |
-| **Net Change** (↕)    | 11746                |
+| **Lines Removed** (➖) | 855                                        |
+| **Net Change** (↕)    | 11742                |
 | **Active Time** (⌚)   | 108 minutes |
 
 
@@ -27,7 +27,7 @@
 - **probeGL.ts** (+1003, -0)
 - **EventV1.ts** (+157, -0)
 - **EventStreamEngine.ts** (+202, -0)
-- **probeMain.ts** (+5325, -1)
+- **probeMain.ts** (+5325, -5)
 - **repro_antigravity.spec.ts** (+78, -8)
 
 ## Visualizations
@@ -37,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 13407
+".ts" : 13411
 ".html" : 41
 ```
 
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "13h" : 18
 "14h" : 9
 "20h" : 3
-"21h" : 2
+"21h" : 3
 ```
 
 
-> **Last Updated:** 2/8/2026, 9:19:20 PM
+> **Last Updated:** 2/8/2026, 9:39:20 PM
