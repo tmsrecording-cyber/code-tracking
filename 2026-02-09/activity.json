@@ -2,9 +2,9 @@
   "date": "2026-02-09",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 482,
-      "totalLinesRemoved": 44,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 483,
+      "totalLinesRemoved": 117,
+      "totalActiveTime": 39,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts": [
           {
@@ -349,6 +349,76 @@
             "fileType": ".ts",
             "linesAdded": 77,
             "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-09T17:05:55.621Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 34,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-09T17:06:33.553Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-09T17:07:19.145Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-09T17:09:16.001Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-09T17:09:53.079Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "SingularityBrainAi",
             "content": {
               "added": [],
