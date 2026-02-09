@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13161                                          |
-| **Lines Removed** (➖) | 1114                                        |
-| **Net Change** (↕)    | 12047                |
-| **Active Time** (⌚)   | 152 minutes |
+| **Lines Added** (➕)   | 13233                                          |
+| **Lines Removed** (➖) | 1147                                        |
+| **Net Change** (↕)    | 12086                |
+| **Active Time** (⌚)   | 160 minutes |
 
 
 ## Modified Files
@@ -27,11 +27,11 @@
 - **probeGL.ts** (+1003, -0)
 - **EventV1.ts** (+157, -0)
 - **EventStreamEngine.ts** (+202, -0)
-- **probeMain.ts** (+5584, -98)
+- **probeMain.ts** (+5656, -98)
 - **repro_antigravity.spec.ts** (+78, -8)
 - **hierarchy_v0_smoke.spec.ts** (+182, -166)
 - **hierarchy_v0_planet_moon.spec.ts** (+47, -0)
-- **hierarchy_v0_visual_proof.spec.ts** (+76, -0)
+- **hierarchy_v0_visual_proof.spec.ts** (+76, -33)
 
 ## Visualizations
 
@@ -40,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 14234
+".ts" : 14339
 ".html" : 41
 ```
 
@@ -59,8 +59,8 @@ title Coding activity by hour (count of changes)
 "20h" : 3
 "21h" : 5
 "22h" : 20
-"23h" : 12
+"23h" : 18
 ```
 
 
-> **Last Updated:** 2/8/2026, 11:39:20 PM
+> **Last Updated:** 2/8/2026, 11:44:20 PM
