@@ -3,7 +3,7 @@
   "projects": {
     "SingularityBrainAi": {
       "totalLinesAdded": 12597,
-      "totalLinesRemoved": 855,
+      "totalLinesRemoved": 856,
       "totalActiveTime": 108,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/main.ts": [
@@ -1165,6 +1165,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-09T05:46:21.329Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "SingularityBrainAi",
             "content": {
               "added": [],
