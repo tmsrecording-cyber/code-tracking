@@ -2,9 +2,9 @@
   "date": "2026-02-08",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 12599,
-      "totalLinesRemoved": 887,
-      "totalActiveTime": 110,
+      "totalLinesAdded": 12777,
+      "totalLinesRemoved": 889,
+      "totalActiveTime": 116,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/main.ts": [
           {
@@ -1355,6 +1355,64 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/tests/e2e/hierarchy_v0_smoke.spec.ts": [
+          {
+            "timestamp": "2026-02-09T06:24:22.784Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/e2e/hierarchy_v0_smoke.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-09T06:24:23.298Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/e2e/hierarchy_v0_smoke.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-09T06:24:48.752Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/e2e/hierarchy_v0_smoke.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-09T06:28:04.461Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/tests/e2e/hierarchy_v0_smoke.spec.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ]
