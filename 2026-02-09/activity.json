@@ -2,9 +2,9 @@
   "date": "2026-02-09",
   "projects": {
     "SingularityBrainAi": {
-      "totalLinesAdded": 1412,
-      "totalLinesRemoved": 127,
-      "totalActiveTime": 84,
+      "totalLinesAdded": 3458,
+      "totalLinesRemoved": 210,
+      "totalActiveTime": 93,
       "files": {
         "/Users/michaelmckenzie/SingularityBrainAi/src/product/probeMain.ts": [
           {
@@ -1116,6 +1116,154 @@
             "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/product/EventStreamEngine.ts",
             "fileType": ".ts",
             "linesAdded": 201,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/src/core/world/Constants.ts": [
+          {
+            "timestamp": "2026-02-10T01:22:12.715Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/core/world/Constants.ts",
+            "fileType": ".ts",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/src/core/physics/CPUBackend.ts": [
+          {
+            "timestamp": "2026-02-10T01:22:43.165Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/core/physics/CPUBackend.ts",
+            "fileType": ".ts",
+            "linesAdded": 1496,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-10T01:23:06.258Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/core/physics/CPUBackend.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 80,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-10T01:23:27.313Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/core/physics/CPUBackend.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-10T01:23:51.783Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/core/physics/CPUBackend.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-10T01:24:08.527Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/core/physics/CPUBackend.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-10T01:24:42.391Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/core/physics/CPUBackend.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/src/tests/MechanicsStabilityProof.ts": [
+          {
+            "timestamp": "2026-02-10T01:25:29.824Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/MechanicsStabilityProof.ts",
+            "fileType": ".ts",
+            "linesAdded": 226,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/michaelmckenzie/SingularityBrainAi/src/tests/A032_OrbitEnergyEnvelopeEntropyInvariant.ts": [
+          {
+            "timestamp": "2026-02-10T01:25:40.091Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/A032_OrbitEnergyEnvelopeEntropyInvariant.ts",
+            "fileType": ".ts",
+            "linesAdded": 196,
+            "linesRemoved": 0,
+            "projectName": "SingularityBrainAi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-10T01:25:45.315Z",
+            "fileName": "/Users/michaelmckenzie/SingularityBrainAi/src/tests/A032_OrbitEnergyEnvelopeEntropyInvariant.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "SingularityBrainAi",
             "content": {
