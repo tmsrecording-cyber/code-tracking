@@ -4,28 +4,28 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9958                                          |
-| **Lines Removed** (➖) | 210                                        |
-| **Net Change** (↕)    | 9748                |
-| **Active Time** (⌚)   | 121 minutes |
+| **Lines Added** (➕)   | 10103                                          |
+| **Lines Removed** (➖) | 1211                                        |
+| **Net Change** (↕)    | 8892                |
+| **Active Time** (⌚)   | 129 minutes |
 
 
 ## Modified Files
-- **probeMain.ts** (+4637, -121)
+- **probeMain.ts** (+4637, -1120)
 - **pin_orbit_visual_proof.spec.ts** (+44, -0)
 - **determinism_guardrails.spec.ts** (+108, -1)
 - **hierarchy_v0_visual_proof.spec.ts** (+0, -5)
 - **gates_verification.spec.ts** (+95, -0)
 - **EventV1.ts** (+169, -0)
 - **EventStreamEngine.ts** (+201, -0)
-- **Constants.ts** (+107, -0)
-- **CPUBackend.ts** (+1516, -83)
+- **Constants.ts** (+110, -0)
+- **CPUBackend.ts** (+1655, -83)
 - **MechanicsStabilityProof.ts** (+229, -0)
 - **A032_OrbitEnergyEnvelopeEntropyInvariant.ts** (+197, -0)
 - **ParityRunner.ts** (+335, -0)
 - **ParityHarness.ts** (+875, -0)
 - **A031_BaselineDisturbanceSafetyInvariant.ts** (+163, -0)
-- **probe.ts** (+188, -0)
+- **probe.ts** (+191, -2)
 - **probeGL.ts** (+1094, -0)
 
 ## Visualizations
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 10168
+".ts" : 11314
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +53,9 @@ title Coding activity by hour (count of changes)
 "14h" : 7
 "15h" : 2
 "17h" : 30
+"18h" : 7
 "23h" : 1
 ```
 
 
-> **Last Updated:** 2/9/2026, 5:40:51 PM
+> **Last Updated:** 2/9/2026, 6:35:51 PM
