@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10103                                          |
-| **Lines Removed** (➖) | 1211                                        |
-| **Net Change** (↕)    | 8892                |
-| **Active Time** (⌚)   | 129 minutes |
+| **Lines Added** (➕)   | 10281                                          |
+| **Lines Removed** (➖) | 1219                                        |
+| **Net Change** (↕)    | 9062                |
+| **Active Time** (⌚)   | 133 minutes |
 
 
 ## Modified Files
@@ -19,14 +19,15 @@
 - **EventV1.ts** (+169, -0)
 - **EventStreamEngine.ts** (+201, -0)
 - **Constants.ts** (+110, -0)
-- **CPUBackend.ts** (+1655, -83)
-- **MechanicsStabilityProof.ts** (+229, -0)
-- **A032_OrbitEnergyEnvelopeEntropyInvariant.ts** (+197, -0)
+- **CPUBackend.ts** (+1655, -86)
+- **MechanicsStabilityProof.ts** (+232, -0)
+- **A032_OrbitEnergyEnvelopeEntropyInvariant.ts** (+197, -5)
 - **ParityRunner.ts** (+335, -0)
 - **ParityHarness.ts** (+875, -0)
 - **A031_BaselineDisturbanceSafetyInvariant.ts** (+163, -0)
 - **probe.ts** (+191, -2)
 - **probeGL.ts** (+1094, -0)
+- **runAll.ts** (+175, -0)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 11314
+".ts" : 11500
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,9 +54,9 @@ title Coding activity by hour (count of changes)
 "14h" : 7
 "15h" : 2
 "17h" : 30
-"18h" : 7
+"18h" : 11
 "23h" : 1
 ```
 
 
-> **Last Updated:** 2/9/2026, 6:35:51 PM
+> **Last Updated:** 2/9/2026, 6:40:51 PM
