@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6338                                          |
-| **Lines Removed** (➖) | 510                                        |
-| **Net Change** (↕)    | 5828                |
-| **Active Time** (⌚)   | 27 minutes |
+| **Lines Added** (➕)   | 7399                                          |
+| **Lines Removed** (➖) | 511                                        |
+| **Net Change** (↕)    | 6888                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
 - **storage.ts** (+950, -0)
-- **engine.ts** (+501, -0)
+- **engine.ts** (+502, -1)
 - **controller.js** (+497, -21)
 - **frontend.test.js** (+473, -0)
 - **ai.ts** (+282, -11)
@@ -26,6 +26,10 @@
 - **index.html** (+1280, -0)
 - **serve-local.js** (+664, -477)
 - **settings.json** (+4, -0)
+- **scoring.ts** (+465, -0)
+- **eslint.config.cjs** (+158, -0)
+- **shared-core.d.ts** (+23, -0)
+- **app-support.js** (+414, -0)
 
 ## Visualizations
 
@@ -34,10 +38,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1744
-".js" : 3780
+".ts" : 2234
+".js" : 4194
 ".json" : 44
 ".html" : 1280
+".cjs" : 158
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +52,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 4
 "13h" : 10
-"14h" : 13
+"14h" : 20
 ```
 
 
-> **Last Updated:** 4/15/2026, 2:12:33 PM
+> **Last Updated:** 4/15/2026, 2:17:33 PM
