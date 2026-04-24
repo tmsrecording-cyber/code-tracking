@@ -2,9 +2,9 @@
   "date": "2026-04-24",
   "projects": {
     "DarkWire": {
-      "totalLinesAdded": 2186,
-      "totalLinesRemoved": 30,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 3344,
+      "totalLinesRemoved": 267,
+      "totalActiveTime": 18,
       "files": {
         "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\styles\\base.css": [
           {
@@ -108,6 +108,110 @@
             },
             "duration": 3,
             "language": "css"
+          }
+        ],
+        "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\lib\\news-engine\\local-context.ts": [
+          {
+            "timestamp": "2026-04-24T08:05:11.793Z",
+            "fileName": "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\lib\\news-engine\\local-context.ts",
+            "fileType": ".ts",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "DarkWire",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\lib\\news-engine\\handlers.ts": [
+          {
+            "timestamp": "2026-04-24T08:05:19.912Z",
+            "fileName": "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\lib\\news-engine\\handlers.ts",
+            "fileType": ".ts",
+            "linesAdded": 702,
+            "linesRemoved": 0,
+            "projectName": "DarkWire",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\app\\local-buzz.js": [
+          {
+            "timestamp": "2026-04-24T08:05:27.909Z",
+            "fileName": "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\app\\local-buzz.js",
+            "fileType": ".js",
+            "linesAdded": 335,
+            "linesRemoved": 0,
+            "projectName": "DarkWire",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-24T08:05:48.102Z",
+            "fileName": "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\app\\local-buzz.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "DarkWire",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-24T08:06:16.100Z",
+            "fileName": "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\app\\local-buzz.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 122,
+            "projectName": "DarkWire",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-24T08:06:28.699Z",
+            "fileName": "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\app\\local-buzz.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "DarkWire",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-24T08:06:53.615Z",
+            "fileName": "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\app\\local-buzz.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 82,
+            "projectName": "DarkWire",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
