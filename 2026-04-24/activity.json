@@ -3,7 +3,7 @@
   "projects": {
     "DarkWire": {
       "totalLinesAdded": 640,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 25,
       "totalActiveTime": 0,
       "files": {
         "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\styles\\base.css": [
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "css"
+          }
+        ],
+        "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\app\\bootstrap.js": [
+          {
+            "timestamp": "2026-04-24T07:36:08.147Z",
+            "fileName": "c:\\Users\\tmsre\\OneDrive\\Desktop\\DarkWire\\app\\bootstrap.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "DarkWire",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
