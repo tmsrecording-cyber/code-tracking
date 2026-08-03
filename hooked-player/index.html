@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#090b10">
+<title>Hooked Player</title>
+<style>
+:root{color-scheme:dark;--bg:#090b10;--panel:#131923;--line:#2d394b;--text:#f7f8fb;--muted:#aab4c3;--accent:#69dfae}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,sans-serif}.top{position:sticky;top:0;z-index:10;display:flex;gap:10px;align-items:center;padding:12px;background:#0c1017;border-bottom:1px solid var(--line)}select,button,a{font:inherit}.label{font-weight:900;margin-right:auto}.version{min-width:180px;background:#171e29;color:var(--text);border:1px solid #3a485c;border-radius:10px;padding:10px 12px;font-weight:800}.open{background:var(--accent);color:#07140e;text-decoration:none;border-radius:10px;padding:10px 14px;font-weight:900}.frame{width:100%;height:calc(100vh - 66px);border:0;background:#000}.note{display:none}@media(max-width:650px){.top{flex-wrap:wrap}.label{width:100%;margin:0}.version{flex:1}.frame{height:calc(100vh - 112px)}}
+</style>
+</head>
+<body>
+<div class="top">
+  <div class="label">🎧 Hooked</div>
+  <select class="version" id="version" aria-label="Choose playlist version">
+    <option value="https://world-energy-radio.vercel.app/">V1 — Wide</option>
+    <option value="https://hooked-v2-brighter.vercel.app/">V2 — Brighter</option>
+    <option value="https://hooked-v3-high-hit-rate.vercel.app/" selected>V3 — Best Hooks</option>
+  </select>
+  <a class="open" id="open" href="https://hooked-v3-high-hit-rate.vercel.app/" target="_blank" rel="noopener">Open full screen</a>
+</div>
+<iframe class="frame" id="frame" title="Hooked music player" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" src="https://hooked-v3-high-hit-rate.vercel.app/"></iframe>
+<script>
+const select=document.getElementById('version');
+const frame=document.getElementById('frame');
+const open=document.getElementById('open');
+select.addEventListener('change',()=>{frame.src=select.value;open.href=select.value});
+</script>
+</body>
+</html>
